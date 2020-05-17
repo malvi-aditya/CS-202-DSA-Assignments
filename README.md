@@ -1,2 +1,2 @@
 # CS-202-DSA-Assignments
-Solutions in CPP for DSA coding Assignments 
+Solutions in CPP of DSA coding Assignments 
